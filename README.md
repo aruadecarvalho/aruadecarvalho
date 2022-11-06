@@ -32,8 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  align="left" width="30px" style="padding-right:10px;"/>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aruadecarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aruadecarvalho" height="30" width="40" /></a>
