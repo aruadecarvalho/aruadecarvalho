@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aruadecarvalho@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aru%C3%A3-de-carvalho-a785461b9/](https://www.linkedin.com/in/aru%C3%A3-de-carvalho-a785461b9/)
+- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/aru%C3%A3-de-carvalho-a785461b9/)
 
 - ⚡ Fun fact **I study mechanical engineering!**
 
