@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Node.js and Express**
 
-- 👨‍💻 All of my projects are available at [aruadecarvalho.dev(coming soon)](aruadecarvalho.dev(coming soon))
+- 👨‍💻 All of my projects are available at [aruadecarvalho.dev(coming soon)](aruadecarvalho.dev)
 
 - 💬 Ask me about **React.js**
 
