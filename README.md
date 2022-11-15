@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Aruã de Carvalho</h1>
 <h3 align="center">A passionate Frontend developer from Brazil</h3> -->
 
-![Header](./assets/github-header.svg)
+![Header](./assets/github-header.png)
 
 - 🔭 I’m currently working on [JobVideo](https://www.jobvideo.com.br/)
 
