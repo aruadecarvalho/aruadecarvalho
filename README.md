@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aruã de Carvalho</h1>
-<h3 align="center">A passionate Frontend developer from Brazil</h3>
+<!-- <h1 align="center">Hi 👋, I'm Aruã de Carvalho</h1>
+<h3 align="center">A passionate Frontend developer from Brazil</h3> -->
+
+![Header](./assets/github-header.svg)
 
 - 🔭 I’m currently working on [JobVideo](https://www.jobvideo.com.br/)
 
@@ -14,7 +16,6 @@
 - 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/aru%C3%A3-de-carvalho-a785461b9/)
 
 - ⚡ Fun fact **I study mechanical engineering!**
-
 
 #
 
@@ -34,12 +35,13 @@
 </p>
 
 #
+
 <h3>Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/aruadecarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aruadecarvalho" height="30" width="40" /></a>
 <a href="https://discord.gg/Arigho#0886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arigho#0886" height="30" width="40" /></a>
 </p>
 
-
 #
-![Aruã de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruadecarvalho&show_icons=true&theme=nord )
+
+![Aruã de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruadecarvalho&show_icons=true&theme=nord)
