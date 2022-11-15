@@ -42,4 +42,4 @@
 
 
 #
-![Aruã de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruadecarvalho&show_icons=true&theme=react)
+![Aruã de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruadecarvalho&show_icons=true&theme=city_lights)
