@@ -25,15 +25,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  align="left" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  align="left" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  align="left" width="30px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="left" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  align="left" width="30px" style="padding-right:10px;"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="left" width="30px" style="padding-right:10px;" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" width="30px" style="padding-right:10px;" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="left" width="30px" style="padding-right:10px;" /> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  align="left" width="30px" style="padding-right:10px;"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" align="left" width="30px" style="padding-right:10px;" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="30px" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" align="left" width="30px" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" width="30px" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="left" width="30px" style="padding-right:10px;" />
 </p>
-
 #
 
 <h3>Connect with me:</h3>
