@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [JobVideo](https://www.jobvideo.com.br/)
 
-- 🌱 I’m currently learning **TypeScript, Node.js and Express**
+- 🌱 I’m currently learning **Next.js, Node.js, Express and Mongo DB**
 
 - 👨‍💻 All of my projects are available at [aruadecarvalho.dev(coming soon)](aruadecarvalho.dev)
 
