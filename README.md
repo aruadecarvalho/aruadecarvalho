@@ -1,21 +1,17 @@
 <!-- <h1 align="center">Hi 👋, I'm Aruã de Carvalho</h1>
 <h3 align="center">A passionate Frontend developer from Brazil</h3> -->
 
-![Header](./assets/github-header-img.png)
+![banner](https://user-images.githubusercontent.com/103606795/210186399-1bfd1e2d-bde9-47ea-989c-f925af5f0bad.png)
 
-- 🔭 I’m currently working on [JobVideo](https://www.jobvideo.com.br/)
 
-- 🌱 I’m currently learning **Next.js, Node.js, Express and Mongo DB**
+You can check out my portfolio at [aruadecarvalho.dev](aruadecarvalho.dev) (coming soon). I specialize in React.js and have experience with various frontend tools and frameworks. Feel free to reach out to me with any questions or if you'd like to work together – you can contact me at aruadecarvalho@gmail.com.
 
-- 👨‍💻 All of my projects are available at [aruadecarvalho.dev(coming soon)](aruadecarvalho.dev)
+Currently, I'm working on [JobVideo](https://www.jobvideo.com.br/), a platform that helps companies and candidates connect through video interviews.
+You can learn more about my professional background on my LinkedIn profile: [linkedin.com/in/aruadecarvalho](https://www.linkedin.com/in/aru%C3%A3-de-carvalho-a785461b9/).
 
-- 💬 Ask me about **React.js**
+I'm also exploring new technologies, such as Next.js and MongoDB, and always looking for new opportunities to learn and grow as a developer.
 
-- 📫 How to reach me **aruadecarvalho@gmail.com**
-
-- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/aru%C3%A3-de-carvalho-a785461b9/)
-
-- ⚡ Fun fact **I study mechanical engineering!**
+Fun fact: I've always been fascinated by how things work and love to take things apart and put them back together. 
 
 #
 
@@ -38,10 +34,10 @@
 #
 
 <h3>Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/aruadecarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aruadecarvalho" height="30" width="40" /></a>
-<a href="https://discord.gg/Arigho#0886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arigho#0886" height="30" width="40" /></a>
-</p>
+
+* [LinkedIn](https://www.linkedin.com/in/aru%C3%A3-de-carvalho-a785461b9/)
+* Email: aruadecarvalho@gmail.com
+* [Portfolio](aruadecarvalho.dev) (coming soon)
 
 #
 
