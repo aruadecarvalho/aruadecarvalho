@@ -1,7 +1,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Aruã de Carvalho</h1>
 <h3 align="center">A passionate Frontend developer from Brazil</h3> -->
 
-![banner](https://user-images.githubusercontent.com/103606795/210186399-1bfd1e2d-bde9-47ea-989c-f925af5f0bad.png)
+![banner - Copia](https://user-images.githubusercontent.com/103606795/210186653-55ed6674-687e-4527-8793-235b8197fe5f.png)
+
 
 
 You can check out my portfolio at [aruadecarvalho.dev](aruadecarvalho.dev) (coming soon). I specialize in React.js and have experience with various frontend tools and frameworks. Feel free to reach out to me with any questions or if you'd like to work together – you can contact me at aruadecarvalho@gmail.com.
