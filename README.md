@@ -37,7 +37,7 @@ Fun fact: I've always been fascinated by how things work and love to take things
 <h3>Connect with me:</h3>
 
 * [LinkedIn](www.linkedin.com/in/aruadecarvalho)
-* Email: aruadecarvalho@gmail.com
+* aruadecarvalho@gmail.com
 * [Portfolio](aruadecarvalho.dev) (coming soon)
 
 #
