@@ -1,7 +1,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Aruã de Carvalho</h1>
 <h3 align="center">A passionate Frontend developer from Brazil</h3> -->
 
-Fullstack developer skilled in React.js, Next.js, Node.js, Express.js, Typescript, and Golang, and experienced in developing REST APIs, working with databases like MongoDB and PostgreSQL, and using Sequelize as an ORM. I also have experience working with state management libraries like Redux and Zustand. 
+I'm a software engineer with expertise in full-stack development. In my recent work, I had the opportunity to develop a high-capacity chat application integrated with WhatsApp, handling a daily volume of over 50,000 messages. For the frontend, I utilized React.js, while Node.js and Express.js powered the creation of REST APIs. My experience extends to working with technologies such as Redis, Socket.io, Sequelize, SQL, PostgreSQL, and Supabase.
+
+I'm driven by a passion for creating impactful software solutions that make a difference. I am excited to take on new challenges, contribute my skills, and continuously grow as a software engineer.
 #
 
 <h3 align="left">Languages and Tools:</h3>
