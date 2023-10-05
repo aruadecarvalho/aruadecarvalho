@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Frontend developer from Brazil</h3> -->
 
 Fullstack developer, backend Node.js e Golang, frontend React.js, database PostgreSQL.
-
-Tel: + 55 12 - 99648-1563
-Email: aruadecarvalho@gmail.com
 #
 
 <h3 align="left">Languages and Tools:</h3>
