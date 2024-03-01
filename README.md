@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Frontend developer from Brazil</h3> -->
 
 Fullstack developer, backend Node.js e Golang, frontend React.js, database PostgreSQL.
-#
+<!-- <h3 align="left">Languages and Tools:</h3>-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="left" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" align="left" width="30px" style="padding-right:10px;"/>
@@ -17,7 +15,6 @@ Fullstack developer, backend Node.js e Golang, frontend React.js, database Postg
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" align="left" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="left" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="30px" style="padding-right:10px;"/>
-</p>
 
 #
 
@@ -26,5 +23,5 @@ Fullstack developer, backend Node.js e Golang, frontend React.js, database Postg
 * [LinkedIn](www.linkedin.com/in/aruadecarvalho)
 * aruadecarvalho@gmail.com
 
-#
-[![Aruã de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruadecarvalho&show_icons=true&theme=nord)](https://github.com/aruadecarvalho/github-readme-stats)
+<!-- #
+[![Aruã de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruadecarvalho&show_icons=true&theme=nord)](https://github.com/aruadecarvalho/github-readme-stats) -->
