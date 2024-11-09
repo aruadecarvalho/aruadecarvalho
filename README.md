@@ -3,7 +3,7 @@ Data engineer with experience in optimizing databases like PostgreSQL, building 
 
 <h3>Connect with me:</h3>
 
-* [LinkedIn](www.linkedin.com/in/aruadecarvalho)
+* [LinkedIn](https://www.linkedin.com/in/aruadecarvalho)
 * aruadecarvalho@gmail.com
 
 <!-- #
